@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingLeo27
-- 👀 I’m interested in game development.
+- 👀 I’m interested in game and business application development.
 - 🌱 I’m currently learning C, C++, and C#.
 - 💞️ I’m looking to collaborate on beginner-level projects to build my skillset. 
 <!--- - 📫 How to reach me ...TBD. --->
